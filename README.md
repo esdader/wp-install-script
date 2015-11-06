@@ -1,4 +1,5 @@
-#WordPress Install Script#
+WordPress Install Script
+========================
 
 Uses wp-cli
 
